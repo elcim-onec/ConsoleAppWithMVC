@@ -1,6 +1,6 @@
-#Sentiment Analysis Console App using JDBC
+# Sentiment Analysis Console App using JDBC
 
-##How it Works :point_down:	
+## How it Works :point_down:	
 
 #### 1. Enter your DB info
 
